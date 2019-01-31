@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGray: #ececec;
+
+body {
+  background: #371f5d;
+  color: $mainBlack;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 0.5rem;
+}
+h1 a {
+  color: rgb(104, 179, 75);
+}
